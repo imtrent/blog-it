@@ -6,13 +6,13 @@ Generic blog website I built to learn the fundamentals of Ruby on Rails
 
 ```bash
 # install gem dependencies
-$ bundle install
+bundle install
 
 # install yarn dependencies
-$ yarn install
+yarn install
 
 # run migrations
-$ rails db:migrate
+rails db:migrate
 
 # start rails server
 rails s
